@@ -1,0 +1,16 @@
+{
+    "input": {
+      "text_input": "Hello, this is a test of the TTS system.",
+      "text_filtering": "standard",
+      "character_voice_gen": "female_01.wav",
+      "narrator_enabled": false,
+      "narrator_voice_gen": "male_01.wav",
+      "text_not_inside": "character",
+      "language": "en",
+      "output_file_name": "output_audio",
+      "output_file_timestamp": true,
+      "autoplay": true,
+      "autoplay_volume": 0.8
+    }
+  }
+  
